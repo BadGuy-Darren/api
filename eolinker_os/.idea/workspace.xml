@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7b04dd10-2c16-4923-8a60-99890b55927e" name="Default" comment="clean" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="InvalidFacetManager">
+    <ignored-facets>
+      <facet id="eolinker_os/invalid/Spring" />
+      <facet id="eolinker_os/invalid/Web" />
+    </ignored-facets>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Enviroment\maven\repository" />
+        <option name="mavenHome" value="C:\Users\F7690807\.m2\wrapper\dists\apache-maven-3.5.3-bin\2c22a6s60afpuloj4v181qvild\apache-maven-3.5.3" />
+        <option name="userSettingsFile" value="D:\Enviroment\maven\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_HOME" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1mJVkv42X2ouzVg2OhIvtpWVuV8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\work-station\test\eolinker源码\eolinker_os_java\src\main\resources\db" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.EolinkerOsApplication">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration name="EolinkerOsApplication (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.foxconn.indint.EolinkerOsApplication" />
+      <module name="eolinker_os" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.foxconn.indint.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EolinkerOsApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.eolinker.EolinkerOsApplication" />
+      <module name="eolinker_os" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.eolinker.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EolinkerOsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.eolinker.EolinkerOsApplication" />
+      <module name="eolinker_os" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EolinkerOsApplication" />
+        <item itemvalue="Application.EolinkerOsApplication (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\F7690807\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b04dd10-2c16-4923-8a60-99890b55927e" name="Default" comment="" />
+      <created>1572254478802</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572254478802</updated>
+      <workItem from="1572254481933" duration="725000" />
+      <workItem from="1572309694243" duration="213000" />
+    </task>
+    <task id="LOCAL-00001" summary="(F7690807)&#10;modify:数据库创建脚本api表增加栏位">
+      <created>1609247780213</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1609247780213</updated>
+    </task>
+    <task id="LOCAL-00002" summary="(F7690807)">
+      <created>1609286645505</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1609286645505</updated>
+    </task>
+    <task id="LOCAL-00003" summary="work">
+      <created>1609308768512</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1609308768512</updated>
+    </task>
+    <task id="LOCAL-00004" summary="clean">
+      <created>1609309043441</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1609309043441</updated>
+    </task>
+    <task id="LOCAL-00005" summary="clean">
+      <created>1609309193599</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1609309193599</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="938000" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="test" />
+    <MESSAGE value="(F7690807)&#10;* mark by:大迪&#10;* project：eoLinker开源版本&#10;* description:&#10;    1.项目api管理&#10;    2.部分bug调试修复完成，需持续自行维护&#10;    3.可按需修改后端功能实现代码" />
+    <MESSAGE value="(F7690807)&#10;modify:数据库创建脚本api表增加栏位" />
+    <MESSAGE value="(F7690807)" />
+    <MESSAGE value="work" />
+    <MESSAGE value="clean" />
+    <option name="LAST_COMMIT_MESSAGE" value="clean" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="422" y="186" key="#Notifications" timestamp="1609299727343">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="422" y="186" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1609299727343" />
+    <state x="419" y="164" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1609290289279">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="419" y="164" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1609290289279" />
+    <state x="294" y="15" width="751" height="673" key="CommitChangelistDialog2" timestamp="1609309192731">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="294" y="15" width="751" height="673" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1609309192731" />
+    <state x="105" y="91" key="DiffContextDialog" timestamp="1609286638926">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="105" y="91" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1609286638926" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1609299910428">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1609299910428" />
+    <state x="433" y="187" width="528" height="367" key="Github.ShareDialog" timestamp="1609299960036">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="433" y="187" width="528" height="367" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1609299960036" />
+    <state width="1323" height="110" key="GridCell.Tab.0.bottom" timestamp="1609309522524">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="110" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1609309522524" />
+    <state width="1323" height="110" key="GridCell.Tab.0.center" timestamp="1609309522524">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="110" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1609309522524" />
+    <state width="1323" height="110" key="GridCell.Tab.0.left" timestamp="1609309522524">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="110" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1609309522524" />
+    <state width="1323" height="110" key="GridCell.Tab.0.right" timestamp="1609309522524">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="110" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1609309522524" />
+    <state width="1323" height="139" key="GridCell.Tab.1.bottom" timestamp="1609247105662">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="139" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1609247105662" />
+    <state width="1323" height="139" key="GridCell.Tab.1.center" timestamp="1609247105662">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="139" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1609247105662" />
+    <state width="1323" height="139" key="GridCell.Tab.1.left" timestamp="1609247105662">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="139" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1609247105662" />
+    <state width="1323" height="139" key="GridCell.Tab.1.right" timestamp="1609247105662">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="139" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1609247105662" />
+    <state width="1323" height="216" key="GridCell.Tab.2.bottom" timestamp="1609242376971">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="216" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1609242376971" />
+    <state width="1323" height="216" key="GridCell.Tab.2.center" timestamp="1609242376971">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="216" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1609242376971" />
+    <state width="1323" height="216" key="GridCell.Tab.2.left" timestamp="1609242376971">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="216" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1609242376971" />
+    <state width="1323" height="216" key="GridCell.Tab.2.right" timestamp="1609242376971">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="216" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1609242376971" />
+    <state x="181" y="16" width="1166" height="712" key="SettingsEditor" timestamp="1609247719172">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="181" y="16" width="1166" height="712" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1609247719172" />
+    <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1609221007843">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1609221007843" />
+    <state x="183" y="86" width="999" height="642" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1609245321179">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="183" y="86" width="999" height="642" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.728@0.0.1366.728" timestamp="1609245321179" />
+    <state x="385" y="96" width="595" height="536" key="find.popup" timestamp="1609290112600">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="385" y="96" width="595" height="536" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1609290112600" />
+    <state x="513" y="154" key="svn.repositoryBrowser" timestamp="1609247007731">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="513" y="154" key="svn.repositoryBrowser/0.0.1366.728@0.0.1366.728" timestamp="1609247007731" />
+    <state x="496" y="264" key="svn.upgradeDialog" timestamp="1609247335185">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="496" y="264" key="svn.upgradeDialog/0.0.1366.728@0.0.1366.728" timestamp="1609247335185" />
+    <state x="451" y="237" key="svn4idea.checkout.options" timestamp="1609247334026">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="451" y="237" key="svn4idea.checkout.options/0.0.1366.728@0.0.1366.728" timestamp="1609247334026" />
+    <state x="553" y="0" key="svn4idea.diff.options" timestamp="1609247245385">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="553" y="0" key="svn4idea.diff.options/0.0.1366.728@0.0.1366.728" timestamp="1609247245385" />
+    <state x="834" y="185" width="357" height="478" key="svn4idea.import.options" timestamp="1609246966803">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="834" y="185" width="357" height="478" key="svn4idea.import.options/0.0.1366.728@0.0.1366.728" timestamp="1609246966803" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="((HashMap)headerList.get(0)).entrySet().toArray()[1]" language="JAVA" custom="java.util.HashMap" />
+        <watch expression="endTime" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
